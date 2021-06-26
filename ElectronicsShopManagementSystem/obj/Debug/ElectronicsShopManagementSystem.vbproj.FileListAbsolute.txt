@@ -1,0 +1,26 @@
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.vbprojAssemblyReference.cache
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.CustomerDetail.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.EmployeeDetail.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.HomePage.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.Login.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.Resources.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.PlaceOrder.resources
+C:\Users\raza_\OneDrive\Desktop\Projects\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.vbproj.GenerateResource.cache
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.vbprojAssemblyReference.cache
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.CustomerDetail.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.EmployeeDetail.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.HomePage.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.Login.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.Resources.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.PlaceOrder.resources
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.vbproj.GenerateResource.cache
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.vbproj.CoreCompileInputs.cache
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem.mdf
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem_log.ldf
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem.exe.config
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem.exe
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem.pdb
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\bin\Debug\ElectronicsShopManagementSystem.xml
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.exe
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.xml
+D:\New folder (2)\ElectronicsShopManagementSystem\ElectronicsShopManagementSystem\obj\Debug\ElectronicsShopManagementSystem.pdb

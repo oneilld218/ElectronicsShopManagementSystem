@@ -1,0 +1,11 @@
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\bin\x64\Debug\CoffeeShopManagementSystem.exe
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\bin\x64\Debug\CoffeeShopManagementSystem.exe.config
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.CustomerDetail.resources
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.HomePage.resources
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.Login.resources
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.Resources.resources
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.vbproj.GenerateResource.cache
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.exe
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.xml
+C:\Users\irfanali.khan\Desktop\21May2020\CoffeeShopManagementSystem\CoffeeShopManagementSystem\obj\x64\Debug\CoffeeShopManagementSystem.pdb

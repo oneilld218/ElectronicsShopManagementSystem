@@ -1,0 +1,421 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ElectronicsShopManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:ElectronicsShopManagementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources._1119975">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources._21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.e_shopping_keyboard_web_thumb_large">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.istockphoto_887338108_1024x1024">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.panasonic_electronics_shop_umesh_enterprises_akurdi_pune_electronic_goods_showrooms_2968owl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ElectronicsShopManagementSystem.My.Resources.Resources.TV_home_appliances">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateAll(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateAll(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateAll(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.AddElectronics_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Customer_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Place_Order_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.AddElectronics_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Customer_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Place_Order_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.AddElectronics_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Customer_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3.Place_Order_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.AddElectronics_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.Customer_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.Place_Order_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateAll(ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ElectronicsShopManagementSystem.ElectronicsShopManagementSystemDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

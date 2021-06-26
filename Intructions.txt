@@ -1,0 +1,3 @@
+After running the project the user name and the password are both 
+admin
+admin
